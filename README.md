@@ -1,2 +1,3 @@
 # mangoboard
-Personal Calendar and Task Board
+
+Project to be started soon, a calendar + task board for students built around what I am looking for
